@@ -1,0 +1,139 @@
+<div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/amalia.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+CAA.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client-nokia.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_aaf.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_adp.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_bali.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_citius.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_compnet.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_dc.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_intim.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_javandra.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_nokia.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_pmt.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_praisindo.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_prosia.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_wadah-arsari.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_wadah-titian.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_wadah-yad.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+client_xdana.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Creative-Capital.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+filelist.txt" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Indotama.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Kimia Farma.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Logo_Medika.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Logo_PDA_Med.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Netro.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+ocbp.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Pandu.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+petrosync.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+samitra.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+Showty.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+tbg.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+tribakti.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+undp.png" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+zebrax.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->

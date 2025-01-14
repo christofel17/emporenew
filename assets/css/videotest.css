@@ -1,0 +1,109 @@
+.example {
+    border: 1px solid black;
+    background-color: #ccc;
+    & + .example {
+      margin-top: 20px;
+    }
+    .content {
+      position: relative;
+      min-height: 400px;
+      text-align: center;
+      color: white;
+    }
+  }
+  
+  
+  /* VIDEO BACKGROUND MODULE */
+  
+  $video-width: 560px;
+  $video-height: 320px;
+  
+  .video-bg {
+    position: relative;
+    overflow: hidden;
+    .video {
+      &.cover {
+        min-height: calc(100% + 2px);
+        position: absolute;
+        left: -1px;
+        right: -1px;
+        &::before {
+          content: "";
+          display: block;
+          height: 0px;
+          padding-bottom: ($video-height / $video-width * 100) + 0%;
+        }
+        video {
+          width: auto;
+          height: 100%;
+          position: absolute;
+          top: 0px;
+        }
+        &.align-left video {
+          left: 0px;
+        }
+        &.align-center video {
+          left: 50%;
+          top: 0px;
+          transform: translate(-50%, 0%);
+        }
+        &.align-right video {
+          right: 0px;
+        }
+        &.align-top {
+          top: 0px;
+        }
+        &.align-middle {
+          top: 50%;
+          transform: translate(0%, -50%);
+        }
+        &.align-bottom {
+          bottom: 0px;
+        }
+      }
+      &.contain {
+        position: absolute;
+        left: -1px;
+        right: -1px;
+        top: -1px;
+        bottom: -1px;
+        video {
+          width: auto;
+          height: auto;
+          max-width: 100%;
+          max-height: 100%;
+          position: absolute;
+        }
+        &.align-left video {
+          left: 0px;
+        }
+        &.align-center video {
+          left: 0px;
+          right: 0px;
+          margin: auto;
+        }
+        &.align-right video {
+          right: 0px;
+        }
+        &.align-top video {
+          top: 0px;
+        }
+        &.align-middle video {
+          top: 0px;
+          bottom: 0px;
+          margin: auto;
+        }
+        &.align-bottom video {
+          bottom: 0px;
+        }
+        &.fill-width video {
+          width: 100%;
+          max-height: none;
+        }
+        &.fill-height video {
+          max-width: none;
+          height: 100%;
+        }
+      }
+    }
+  }
